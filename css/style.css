@@ -1,0 +1,62 @@
+@import url(https://use.fontawesome.com/releases/v6.1.0/css/all.css);
+
+/* selectores de etiqueta */
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-size-adjust: 40px;
+}
+
+/* selectores de clase */
+
+.barra {
+    background-color:black;
+    color: white;
+}
+
+.inicio {
+    background-color: #F0A83E;
+    background-repeat: no-repeat;
+    color: white;
+    height: 120px;
+    width: 100%;
+}
+
+.banner {
+    background-image: url(../img/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    height: 600px;
+    width: 100%;
+}
+
+
+.descuento {
+    text-align: center;
+}
+
+.comederos {
+    background-color: #F0A83E;
+    color: white;
+    text-align: center;
+}
+
+.footer {
+    background-color: #3C2313;
+    background-image: url(../img/Location.png), url(../img/Phone.png), url(../img/Correo.png), url(../img/Logo2.png);
+    background-repeat: no-repeat;
+    background-position:top left, center left, bottom left, center right ;
+    height: 300px;
+}
+
+.pie {
+    background-color: #222222;
+    color: white;
+    text-align: center;
+}
